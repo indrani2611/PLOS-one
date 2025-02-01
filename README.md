@@ -31,7 +31,7 @@ This project involves analyzing peptides from MaxQuant output files. The code fi
 
 ## Usage
 
-1.Run the R script (`rscript_pca_figures.R`) to perform the analysis.
+1.Run the R script (`PCA_peptidomics.R`) to perform the analysis.
 
 ## Functions
 
